@@ -1,0 +1,11 @@
+ <input list="language">
+             <datalist id="language">
+              <option value="C#"></option>
+              <option value="JavaScript"></option>
+              <option value="Python"></option>
+             </datalist>
+        </p>
+
+        <p class="test11">
+            <input type="button" value="Кнопка">
+            <input type="checkbox"> 
